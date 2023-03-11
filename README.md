@@ -19,13 +19,13 @@ I am looking to collaborate with researchers in ML who are working towards the a
 <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+<a href="https://www.linkedin.com/in/andres-navarro-alsina">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:georgiou.kostas94@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+<a href='https://scholar.google.com/citations?user=HyzKl44AAAAJ&hl=en' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <br/> 
