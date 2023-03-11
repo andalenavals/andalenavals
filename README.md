@@ -7,12 +7,6 @@ My work at the [Euclid Consortium](https://www.euclid-ec.org/), the [Dark Eneryg
 
 I am looking to collaborate with researchers in ML who are working towards the adoption of AI in science. 
 
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andalenavals&show_icons=true&theme=dark&hide_border=true&count_private=true"> 
-</div>
--->
-
 
 <p align="center">
 <a href="https://gkos.tech">
@@ -32,11 +26,14 @@ I am looking to collaborate with researchers in ML who are working towards the a
 </a>
 <br/> 
  
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andalenavals&show_icons=true&theme=dark&hide_border=true&count_private=true"> 
+</div>
+
+  <!--    
 <a href="https://github.com/andalenavals">
     <img src="https://github-readme-stats.vercel.app/api?username=andalenavals&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> 
- 
-  <!--  
 <a href="https://github.com/andalenavals">
     <img src="https://github-stats-alpha.vercel.app/api?username=andalenavals&cc=22272e&tc=37BCF6&ic=fff&bc=0000&card_width=5=1000px&show_icons=false">
 </a>-->
