@@ -35,7 +35,7 @@ I am looking to collaborate with researchers in ML who are working towards the a
 </a> -->
 
 <a href="https://github.com/andalenavals">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=andalenavals&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 </p>
