@@ -7,9 +7,11 @@ My work at the [Euclid Consortium](https://www.euclid-ec.org/), the [Dark Eneryg
 
 I am looking to collaborate with researchers in ML who are working towards the adoption of AI in science. 
 
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andalenavals&show_icons=true&theme=dark&hide_border=true&count_private=true"> 
 </div>
+-->
 
 
 <p align="center">
@@ -30,9 +32,9 @@ I am looking to collaborate with researchers in ML who are working towards the a
 </a>
 <br/> 
 
-<!-- <a href="https://github.com/andalenavals">
+<a href="https://github.com/andalenavals">
     <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
+</a> 
 
 <a href="https://github.com/andalenavals">
     <img src="https://github-stats-alpha.vercel.app/api?username=andalenavals&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
