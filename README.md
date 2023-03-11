@@ -33,7 +33,7 @@ I am looking to collaborate with researchers in ML who are working towards the a
 <br/> 
  
 <a href="https://github.com/andalenavals">
-    <img src="https://github-stats-alpha.vercel.app/api?username=andalenavals&cc=22272e&tc=37BCF6&ic=fff&bc=0000&card_width=300px">
+    <img src="https://github-stats-alpha.vercel.app/api?username=andalenavals&cc=22272e&tc=37BCF6&ic=fff&bc=0000&card_width=400px">
 </a>
 
 
