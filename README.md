@@ -32,9 +32,14 @@ I am looking to collaborate with researchers in ML who are working towards the a
 </a>
 <br/> 
  
+<a href="https://github.com/drkostas">
+    <img src="https://github-readme-stats.vercel.app/api?username=andalenavals&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=600px&hide_rank=true&bg_color=00000000&theme=dracula">
+</a> 
+ 
+  <!--  
 <a href="https://github.com/andalenavals">
     <img src="https://github-stats-alpha.vercel.app/api?username=andalenavals&cc=22272e&tc=37BCF6&ic=fff&bc=0000&card_width=5=1000px&show_icons=false">
-</a>
+</a>-->
 
 
 </p>
