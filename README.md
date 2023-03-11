@@ -12,7 +12,7 @@ I am looking to collaborate with researchers in ML who are working towards the a
 <a href="https://andalenavals.github.io/">
     <img src="https://img.shields.io/badge/Website-andalenavals.github.io-red?style=flat-square">
 </a>  
-<a href="https://gkos.tech/Resume.pdf">
+<a href="https://andalenavals.github.io/files/academic_cv.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/andres-navarro-alsina">
