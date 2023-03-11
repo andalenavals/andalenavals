@@ -9,7 +9,7 @@ I am looking to collaborate with researchers in ML who are working towards the a
 
 
 <p align="center">
-<a href="https://gkos.tech">
+<a href="https://andalenavals.github.io/">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>  
 <a href="https://gkos.tech/Resume.pdf">
